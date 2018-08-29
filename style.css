@@ -1,0 +1,50 @@
+#main-wrapper {
+    width: 400px;
+    margin: 0 auto;
+    padding: 2px;
+    color: black;
+    text-shadow: white 3px 3px 5px;
+    font-family: Impact;
+    text-align: center;
+}
+
+#textform {
+    color: black;
+    font-family: Impact;
+    text-align: left;
+}
+
+#logout_btn {
+    background-color: #fa6e1c;
+    padding-right: 5px;
+    font-size: 15px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+#login_btn {
+    background-color: #78e08f;
+    padding: 5px;
+    text-align: center;
+    font-size: 13px;
+}
+
+#register_btn {
+    background-color: #82ccdd;
+    padding: 5px;
+    text-align: center;
+    font-size: 13px;
+}
+
+#submit_btn {
+    background-color: #78e08f;
+    font-size: 13px;
+}
+
+.responsive-img {
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
